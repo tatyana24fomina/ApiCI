@@ -1,5 +1,7 @@
 image: Ubuntu  # образ для сборки
 
+chmod +x gradlew
+
 stack: jdk 11  # версия JDK
 
 branches:
